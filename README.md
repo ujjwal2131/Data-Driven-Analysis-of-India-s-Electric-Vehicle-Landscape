@@ -1,4 +1,4 @@
-# Electric Vehicle (EV) Market Analysis for India - AtliQ Motors
+# Electric Vehicle Market Analysis for India - AtliQ Motors
 
 ##  Project Overview:
 
