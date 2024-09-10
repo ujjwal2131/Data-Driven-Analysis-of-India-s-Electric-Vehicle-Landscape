@@ -31,4 +31,7 @@ The EV market in India is poised for rapid growth, particularly in urban centers
 
 
 **Insights:** Click [here](https://github.com/ujjwal2131/Electric-Vehicle-Market-Analysis-for-India-AtliQ-Motors/tree/main/Insights) to check the key insights.<br>
-**Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjY3N2I3ZjAtNDlmYS00YzlmLWIzYTgtOWZjYjlmOGJiZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.
+**Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjY3N2I3ZjAtNDlmYS00YzlmLWIzYTgtOWZjYjlmOGJiZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.<br><br>
+
+**Dashboard Preview:**
+![Screenshot (582)](https://github.com/user-attachments/assets/dc78f638-0cb7-4154-98a1-5c981c03fa1e)
