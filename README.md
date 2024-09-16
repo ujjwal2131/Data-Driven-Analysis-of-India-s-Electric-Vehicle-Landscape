@@ -3,7 +3,7 @@
 ##  Project Overview:
 
 This project focuses on a comprehensive analysis of the Electric Vehicle (EV) market in India to help AtliQ Motors, a major EV player in North America, strategically expand its presence in India. With a market share of less than 2% in India compared to 25% in North America, this analysis aims to identify key insights, trends, and actionable recommendations for the company’s growth.<br><br>
-We analyzed EV sales data from various states across fiscal years 2022 to 2024, focusing on sales, penetration rates, and regional market dynamics. Using advanced data analysis techniques, we conducted detailed research on customer preferences, government incentives, market growth, and future projections for both 2-wheelers and 4-wheelers.
+I analyzed EV sales data from various states across fiscal years 2022 to 2024, focusing on sales, penetration rates, and regional market dynamics. Using advanced data analysis techniques, I conducted detailed research on customer preferences, government incentives, market growth, and future projections for both 2-wheelers and 4-wheelers.
 
 
 ## Key Insights:
