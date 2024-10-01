@@ -1,4 +1,4 @@
-# Electric Vehicle Market Analysis for India - AtliQ Motors
+# Data-Driven Analysis of India's Electric Vehicle Landscape
 
 ##  Project Overview:
 
@@ -30,7 +30,7 @@ I analyzed EV sales data from various states across fiscal years 2022 to 2024, f
 The EV market in India is poised for rapid growth, particularly in urban centers and states offering strong government incentives. AtliQ Motors can capitalize on this trend by focusing on high-potential states like Gujarat, Maharashtra, and Karnataka, while addressing infrastructure challenges and customer needs for both 2-wheelers and 4-wheelers.
 
 
-**Insights:** Click [here](https://github.com/ujjwal2131/Electric-Vehicle-Market-Analysis-for-India-AtliQ-Motors/tree/main/Insights) to check the key insights.<br>
+**Insights:** Click [here](https://github.com/ujjwal2131/Data-Driven-Analysis-of-India-s-Electric-Vehicle-Landscape/tree/main/Insights) to check the key insights.<br>
 **Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjY3N2I3ZjAtNDlmYS00YzlmLWIzYTgtOWZjYjlmOGJiZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.<br><br>
 
 For more details about the project click [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/15).
